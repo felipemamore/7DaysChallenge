@@ -3,6 +3,13 @@ package desafio;
 import java.util.Scanner;
 
 public class Dia2 {
+//	
+//	Write a Java method to count all vowels in a string. Go to the editor
+//	Test Data:
+//	Input the string: w3resource
+//	Expected Output:
+//
+//	Number of  Vowels in the string: 4
 	
 
 	public static void main(String[] args) {
